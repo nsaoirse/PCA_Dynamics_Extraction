@@ -1,6 +1,22 @@
 
 <p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
 margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
+height=420 src="/pointTracking/1f.gif"></span></p>
+
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
+height=420 src="/pointTracking/2f.gif"></span></p>
+
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
+height=420 src="/pointTracking/3f.gif"></span></p>
+
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
+height=420 src="/pointTracking/4f.gif"></span></p>
+
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
 height=420 src="XReconstruction.gif"></span></p>
 <p class=MsoNormal><span style='position:right;z-index:-1895810048;
 margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
