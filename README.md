@@ -1,4 +1,11 @@
 
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
+height=420 src="XReconstruction.gif"></span></p>
+<p class=MsoNormal><span style='position:right;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=500
+height=420 src="YReconstruction.gif"></span></p>
+
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
