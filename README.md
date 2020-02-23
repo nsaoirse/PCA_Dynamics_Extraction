@@ -1,4 +1,4 @@
-<html>
+
 
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
@@ -88,6 +88,7 @@ style='font-size:9.0pt;font-family:"Helvetica",sans-serif;color:windowtext;
 font-style:normal'>   </span></span></p>
 
  
+
 
  
 
@@ -362,6 +363,18 @@ rotation with great fidelity. The axial rotation sampling was highly irregular,
 and the original data for the motion is unreliable, so I can’t attest to the
 method’s ability to capture the motion.</span></p>
 
+<html>
+<h1 align=center style='margin-top:0in;text-align:center;line-height:115%'><span
+style='font-family:"Helvetica",sans-serif;color:windowtext'> Effect of Rank Increase on SVD Projections of Data </span></h1>
+	
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=1000
+height=750 src="XReconstruction.gif"></span></p>
+
+
+<p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
+margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=1000
+height=750 src="YReconstruction.gif"></span></p>
 <p class=MsoNormal style='margin-bottom:0in;margin-bottom:.0001pt;text-indent:
 .5in;line-height:normal;page-break-after:avoid'>&nbsp;</p>
 
@@ -451,9 +464,8 @@ src="NikkiLewisHomework3_files/image025.png"></span><span style='font-size:
 10.0pt;line-height:107%;font-family:"Helvetica",sans-serif'> norm. As the
 dynamics of the system become more complicated, or become nonlinear, the POD of
 data can lose robustness, and fail to describe existing dynamics within the
-data adequately. For access to the functions used in this study, as well as videos
-of the analysis, visit </span><a
-href="https://github.com/nsaoirse/PCA_Dynamics_Extraction">https://github.com/nsaoirse/PCA_Dynamics_Extraction</a>.</p>
+data adequately. 
+	
 
 <h1><b><span style='font-size:12.0pt;line-height:107%;font-family:"Helvetica",sans-serif;
 color:windowtext'>Appendix A - MATLAB functions used and brief implementation
