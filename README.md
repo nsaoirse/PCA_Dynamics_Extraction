@@ -37,16 +37,6 @@ height=420 src="YReconstruction.gif"></span></p>
 margin-bottom:.0001pt;text-indent:.5in;line-height:115%'><span
 style='font-family:"Helvetica",sans-serif;color:windowtext'>Nicolette Lewis</span></h1>
 
-<h1 align=center style='margin-top:0in;text-align:center;line-height:115%'><span
-style='font-family:"Helvetica",sans-serif;color:windowtext'>AMATH 582:&nbsp;Computational
-Methods for Data Analysis</span></h1>
-
-<h1 align=center style='margin-top:0in;text-align:center;line-height:115%'><span
-style='font-family:"Helvetica",sans-serif;color:windowtext'> Homework 3 </span></h1>
-
-<h1 align=center style='margin-top:0in;text-align:center;line-height:115%'><span
-style='font-family:"Helvetica",sans-serif;color:windowtext'> February 21, 2020 </span></h1>
-
 <h1 style='margin-bottom:12.0pt'><span style='font-size:14.0pt;line-height:
 107%;font-family:"Helvetica",sans-serif;color:windowtext'>Abstract</span></h1>
 
@@ -119,7 +109,11 @@ font-style:normal'>   </span></span></p>
 
 <p class=MsoNormal><span style='position:absolute;z-index:-1895810048;
 margin-left:241px;margin-top:12px;width:124px;height:137px'><img width=124
-height=137 src="NikkiLewisHomework3_files/image002.jpg"></span></p>
+height=137 src="NikkiLewis
+	
+	
+	
+	3_files/image002.jpg"></span></p>
 
 <p class=MsoNormal><span style='font-size:9.0pt;line-height:107%;font-family:
 "Helvetica",sans-serif'>                                                                                                                                                                                      </span></p>
